@@ -8,7 +8,7 @@ print(dct['oleg'])
 
 dct.update({'fenya': 1987,
         'grisha': 1977})
-del dct['sasha']
+del dct['sasha'] # del используется для удаления элементов
 b = dct.pop('denis')  #метод "pop" используется при том случае, когда нужно извлечь значение или ключ как в данном случае
 print(dct)
 print(b)
