@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba0a2e4a-248f-436c-a12c-221aed2c6d5e" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/m2/2.4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2/2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/m2/2.3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,10 @@
     "Python.2.0.executor": "Debug",
     "Python.2.1.executor": "Run",
     "Python.2.2.executor": "Run",
-    "Python.2.3.executor": "Debug",
+    "Python.2.3.executor": "Run",
+    "Python.2.4.1.executor": "Debug",
+    "Python.2.4.executor": "Run",
+    "Python.jkh.executor": "Debug",
     "Python.test.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -230,6 +233,11 @@
           <url>file://$PROJECT_DIR$/m2/2.3.py</url>
           <line>1</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/m2/2.4.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
