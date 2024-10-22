@@ -16,6 +16,7 @@ for i in numbers:
             break
     if is_prime:
         primes_.append(i)
+
 print(primes_)
 print(not_primes_)
 
