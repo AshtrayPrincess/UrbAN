@@ -22,6 +22,7 @@ def is_contains(string, search):
     count_calls()
     return False
 
+
 print(string_info('Capybara'))
 print(string_info('Armageddon'))
 print(is_contains('Urban', ['ban', 'BaNaN', 'urBAN']))  # Urban ~ urBAN
